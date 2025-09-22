@@ -172,9 +172,48 @@ When adding new user stories:
 - **[Solutions to Historical Failures](../Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures
 
 **For Audio & Media:**
-- **[Katy Coin's Endgame](../Media/endgame-blueprint.mp3)** - Comprehensive audio exploration of regenerative tokenomics
-- **[Can AI-Powered Mutual Credit Replace the Dollar?](../Media/ai-mutual-credit.mp4)** - Visual explanation of core concepts
-- **[A New Economic Railroad](../Media/economic-railroad.mp4)** - Understanding the railroad metaphor and community connections
+
+**Katy Coin's Endgame: The Complete Economic Blueprint**
+*Duration: ~5 minutes*
+Comprehensive exploration of regenerative tokenomics and economic theory
+
+<div style="position: relative; padding-top: 100%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F76741d776feead7b75d08dc32bccc272%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
+**Can AI-Powered Mutual Credit Replace the Dollar?**
+*Duration: ~35 minutes*
+Visual explanation of core concepts and AI-powered economic systems
+
+<div style="position: relative; padding-top: 100%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2Fdf0b84134e23fe82ed198269216ede33%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
+**A New Economic Railroad**
+*Duration: ~8 minutes*
+Understanding the railroad metaphor and community connections
+
+<div style="position: relative; padding-top: 56.25%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F091ce268f5fbf9c0bd504ca9088bca5e%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
 
 ---
 

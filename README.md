@@ -1,10 +1,43 @@
 # 🚂 Katy Coin: The Economic Revolution Railroad
 
+<img src="https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/6dbc069a-8ddb-4672-4075-dbe9aacadb00/public" alt="Katy Coin Logo" width="300">
+
 **Where your skills are currency and community comes first.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA)](https://discord.gg/katycoin)
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen)](CONTRIBUTING.md)
+
+## 📑 Table of Contents
+
+- [🎬 Watch: Understanding Katy Coin](#-watch-understanding-katy-coin)
+- [🌟 What is Katy Coin?](#-what-is-katy-coin)
+- [🎯 Why This Matters](#-why-this-matters)
+- [🌟 What Makes This Different](#-what-makes-this-different)
+- [🎧 Learn More (Audio & Video)](#-learn-more-audio--video)
+- [🚀 How We're Building This](#-how-were-building-this)
+- [🤝 How You Can Help](#-how-you-can-help)
+- [📚 Complete Documentation](#-complete-documentation)
+- [🌍 Our Principles](#-our-principles)
+- [📊 Success Metrics](#-success-metrics)
+- [🚂 The Katy Trail Connection](#-the-katy-trail-connection)
+- [💬 Connect With Us](#-connect-with-us)
+
+## 🎬 Watch: Understanding Katy Coin
+
+**Start Here: The Economic Railroad Explained (8 minutes)**
+
+<div style="position: relative; padding-top: 56.25%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F091ce268f5fbf9c0bd504ca9088bca5e%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
+*Watch this first to understand how Katy Coin connects communities like the historic railroad. For a deeper dive, scroll down to the 35-minute [AI-Powered Mutual Credit Deep Dive](#-learn-more-audio--video).*
 
 ## 🌟 What is Katy Coin?
 
@@ -38,19 +71,35 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 
 ## 🎧 Learn More (Audio & Video)
 
-### 🎵 Audio Content
-**[Katy Coin's Endgame: The Complete Economic Blueprint](docs/Media/endgame-blueprint.mp3)**
-*Type: Audio (MP3) | Duration: ~45 minutes*
-A comprehensive audio journey through the economics, philosophy, and future of community-driven currency
+### 🎙️ Deep Dive: AI-Powered Mutual Credit (35 minutes)
 
-### 🎬 Video Content
-**[Can AI-Powered Mutual Credit Replace the Dollar?](docs/Media/ai-mutual-credit.mp4)**
-*Type: Video (MP4) | Duration: ~12 minutes*
-Visual breakdown of how the system works and why it matters
+**Want to understand the full economic theory?** Watch this comprehensive exploration of how AI-powered mutual credit systems can transform economics:
 
-**[Katy Coin: A New Economic Railroad](docs/Media/economic-railroad.mp4)**
-*Type: Video (MP4) | Duration: ~8 minutes*
-Understanding the railroad metaphor and how Katy Coin connects communities
+<div style="position: relative; padding-top: 100%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2Fdf0b84134e23fe82ed198269216ede33%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
+### 🎬 Additional Content
+
+**Katy Coin's Endgame: The Complete Economic Blueprint**
+*Duration: ~5 minutes*
+A comprehensive journey through the economics, philosophy, and future of community-driven currency
+
+<div style="position: relative; padding-top: 100%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F76741d776feead7b75d08dc32bccc272%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
 
 ## 🚀 How We're Building This
 

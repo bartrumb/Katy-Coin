@@ -1,5 +1,18 @@
 # The Economic Foundations of Katy Coin: A Comprehensive Theoretical Framework
-![[endgame-blueprint.mp3]]
+
+**Watch: Katy Coin's Endgame - The Complete Economic Blueprint**
+*A comprehensive exploration of the economic theories and principles underlying Katy Coin*
+
+<div style="position: relative; padding-top: 100%;">
+  <iframe
+    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F76741d776feead7b75d08dc32bccc272%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
+    loading="lazy"
+    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
 ## I. Introduction: Beyond Speculation - Grounding Digital Currency in Economic Theory
 
 ### Purpose and Scope

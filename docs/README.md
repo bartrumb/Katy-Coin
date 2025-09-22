@@ -45,11 +45,10 @@ Explore [Capitalism Replacement](CAPITALISM-REPLACEMENT.md) and [Why This Works]
 All documentation follows these conventions:
 - **Emojis**: Used in H2 headers for visual navigation
 - **Code Examples**: Provided in JavaScript/TypeScript
-- **Diagrams**: ASCII art for universal compatibility
 - **Cross-Links**: Heavy interlinking between related topics
 - **Practical Focus**: Theory backed by implementation details
 - **Table of Contents**: Always include a TOC for easy navigation
-- **Mermaid Diagrams**: Use Mermaid syntax for flowcharts and architecture diagrams
+- **Mermaid Diagrams**: Use Mermaid syntax for flowcharts and architecture diagrams If you see an ascii art diagram replace with a mermaid one, ensure the mermaid contains relevant emojis, and line descriptions for clarity
 
 ## 🤝 Contributing to Documentation
 
