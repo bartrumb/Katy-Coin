@@ -447,36 +447,43 @@ class LiabilityProtection {
 
 ### Phase 1: Katy Trail Communities
 
-```
-├── Saint Charles (HQ/Start)
-├── Augusta 
-├── Defiance
-├── Rocheport
-├── Boonville
-└── Clinton
+```mermaid
+flowchart TD
+    A[🚂 Phase 1: Katy Trail Communities] --> B[🏠 Saint Charles - HQ/Start]
+    A --> C[🍇 Augusta]
+    A --> D[🏔️ Defiance]
+    A --> E[🌊 Rocheport]
+    A --> F[🏛️ Boonville]
+    A --> G[🌟 Clinton]
 ```
 
 ### Phase 2: Missouri Hub Cities
 
-```
-├── St. Louis Metro
-├── Columbia
-├── Jefferson City
-└── Kansas City
+```mermaid
+flowchart TD
+    A[🌆 Phase 2: Missouri Hub Cities] --> B[🌉 St. Louis Metro]
+    A --> C[🎓 Columbia]
+    A --> D[🏛️ Jefferson City]
+    A --> E[🌃 Kansas City]
 ```
 
 ### Phase 3: Original Katy Railroad Route
 
-```
-├── Kansas
-├── Oklahoma  
-└── Texas
+```mermaid
+flowchart TD
+    A[🚂 Phase 3: Original Katy Railroad Route] --> B[🌾 Kansas]
+    A --> C[🛢️ Oklahoma]
+    A --> D[⭐ Texas]
 ```
 
 ### Phase 4: National Rail Network
 
-```
-└── Every former railroad town in America
+```mermaid
+flowchart TD
+    A[🌍 Phase 4: National Rail Network] --> B[🚂 Every former railroad town in America]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
 ```
 
 ## Launch Timeline

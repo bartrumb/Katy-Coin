@@ -298,26 +298,24 @@ Mapped community barter system for skill and asset exchange.
 
 **"What Can I Trade?" Wizard**
 
-```
-Step 1: Skills Inventory
-├── Professional (accounting, coding, design)
-├── Trades (plumbing, electrical, carpentry)
-├── Personal (babysitting, tutoring, organizing)
-├── Hobbies (music lessons, craft teaching, gaming)
-└── Physical (moving help, yard work, delivery)
-
-Step 2: Asset Scanner
-├── Unused items (via phone camera + AI identification)
-├── Subscriptions/memberships (gym, streaming, wholesale clubs)
-├── Benefits sharing (employee discounts, travel perks)
-├── Event tickets/passes
-└── Living space (parking spots, storage, guest rooms)
-
-Step 3: Time Availability
-├── Regular hours (evenings, weekends)
-├── Seasonal availability
-├── Emergency response capability
-└── Future commitments possible
+```mermaid
+flowchart TD
+    A[📋 Step 1: Skills Inventory] --> B[💼 Professional<br/>accounting, coding, design]
+    A --> C[🔧 Trades<br/>plumbing, electrical, carpentry]
+    A --> D[👥 Personal<br/>babysitting, tutoring, organizing]
+    A --> E[🎨 Hobbies<br/>music lessons, craft teaching, gaming]
+    A --> F[💪 Physical<br/>moving help, yard work, delivery]
+    
+    G[📷 Step 2: Asset Scanner] --> H[📦 Unused items<br/>via phone camera + AI identification]
+    G --> I[🎫 Subscriptions/memberships<br/>gym, streaming, wholesale clubs]
+    G --> J[💰 Benefits sharing<br/>employee discounts, travel perks]
+    G --> K[🎟️ Event tickets/passes]
+    G --> L[🏠 Living space<br/>parking spots, storage, guest rooms]
+    
+    M[⏰ Step 3: Time Availability] --> N[🕕 Regular hours<br/>evenings, weekends]
+    M --> O[🌱 Seasonal availability]
+    M --> P[🚨 Emergency response capability]
+    M --> Q[📅 Future commitments possible]
 ```
 
 ### Community-to-Maker Direct Connections

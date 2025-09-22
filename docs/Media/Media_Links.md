@@ -14,7 +14,7 @@
 
 **Start Here: How Katy Coin connects communities like the historic railroad**
 
-[![Katy Coin Economic Railroad Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
+[![Katy Coin Economic Railroad Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
 
 *Watch this first to understand how Katy Coin connects communities like the historic railroad. For a deeper dive, see the 35-minute [AI-Powered Mutual Credit Deep Dive](#-ai-mutual-credit-video-35-minutes) below.*
 
@@ -24,7 +24,7 @@
 
 **Katy Coin's Endgame: The Complete Economic Blueprint**
 
-[![Katy Coin Endgame Blueprint Audio](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
+[![Katy Coin Endgame Blueprint Audio](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 *A comprehensive journey through the economics, philosophy, and future of community-driven currency*
 
@@ -34,7 +34,7 @@
 
 **Deep Dive: Comprehensive exploration of AI-powered mutual credit systems**
 
-[![Katy Coin AI Mutual Credit Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
+[![Katy Coin AI Mutual Credit Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
 
 *Want to understand the full economic theory? This comprehensive exploration shows how AI-powered mutual credit systems can transform economics and create community-driven prosperity.*
 
@@ -45,8 +45,19 @@
 ### Katy Coin Logo
 **Cloudflare Images URL**: `https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/6dbc069a-8ddb-4672-4075-dbe9aacadb00/public`
 
+<img src="https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/6dbc069a-8ddb-4672-4075-dbe9aacadb00/public" alt="Katy Coin Logo" width="300">
+
 ```markdown
 <img src="https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/6dbc069a-8ddb-4672-4075-dbe9aacadb00/public" alt="Katy Coin Logo" width="300">
+```
+
+### Podcast Logo
+**Local File**: `Podcast-Logo.png`
+
+<img src="Podcast-Logo.png" alt="Katy Coin Podcast Logo" width="300">
+
+```markdown
+<img src="docs/Media/Podcast-Logo.png" alt="Katy Coin Podcast Logo" width="300">
 ```
 
 ## 🔗 Integration Guide
@@ -63,7 +74,7 @@ For optimal GitHub compatibility, use the clickable thumbnail method:
 
 **Thumbnail Pattern**: 
 ```
-https://customer-bqks49rkj2gctvbm.cloudflarestream.com/{VIDEO_ID}/thumbnails/thumbnail.jpg?time=&height=600
+https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public
 ```
 
 **Iframe Pattern**:

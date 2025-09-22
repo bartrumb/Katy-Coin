@@ -27,7 +27,7 @@
 
 **Start Here: The Economic Railroad Explained (8 minutes)**
 
-[![Katy Coin Economic Railroad Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
+[![Katy Coin Economic Railroad Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
 
 *Watch this first to understand how Katy Coin connects communities like the historic railroad. For a deeper dive, scroll down to the 35-minute [AI-Powered Mutual Credit Deep Dive](#-learn-more-audio--video).*
 
@@ -67,7 +67,7 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 
 **Want to understand the full economic theory?** Watch this comprehensive exploration of how AI-powered mutual credit systems can transform economics:
 
-[![Katy Coin AI Mutual Credit Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
+[![Katy Coin AI Mutual Credit Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
 
 ### 🎬 Additional Content
 
@@ -75,7 +75,7 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 *Duration: ~5 minutes*
 A comprehensive journey through the economics, philosophy, and future of community-driven currency
 
-[![Katy Coin Endgame Blueprint Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
+[![Katy Coin Endgame Blueprint Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 ## 🚀 How We're Building This
 

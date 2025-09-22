@@ -3,7 +3,7 @@
 **Watch: Katy Coin's Endgame - The Complete Economic Blueprint**
 *A comprehensive exploration of the economic theories and principles underlying Katy Coin*
 
-[![Katy Coin Endgame Blueprint](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
+[![Katy Coin Endgame Blueprint](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 ## 📑 Table of Contents
 

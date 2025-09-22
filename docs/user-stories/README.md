@@ -177,19 +177,19 @@ When adding new user stories:
 *Duration: ~5 minutes*
 Comprehensive exploration of regenerative tokenomics and economic theory
 
-[![Katy Coin Endgame Blueprint](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
+[![Katy Coin Endgame Blueprint](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 **Can AI-Powered Mutual Credit Replace the Dollar?**
 *Duration: ~35 minutes*
 Visual explanation of core concepts and AI-powered economic systems
 
-[![Katy Coin AI Mutual Credit Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
+[![Katy Coin AI Mutual Credit Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
 
 **A New Economic Railroad**
 *Duration: ~8 minutes*
 Understanding the railroad metaphor and community connections
 
-[![Katy Coin Economic Railroad Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
+[![Katy Coin Economic Railroad Video](https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/cedbca19-40de-4655-b523-487f6fff1000/public)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
 
 ---
 
