@@ -177,43 +177,19 @@ When adding new user stories:
 *Duration: ~5 minutes*
 Comprehensive exploration of regenerative tokenomics and economic theory
 
-<div style="position: relative; padding-top: 100%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F76741d776feead7b75d08dc32bccc272%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin Endgame Blueprint](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 **Can AI-Powered Mutual Credit Replace the Dollar?**
 *Duration: ~35 minutes*
 Visual explanation of core concepts and AI-powered economic systems
 
-<div style="position: relative; padding-top: 100%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2Fdf0b84134e23fe82ed198269216ede33%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin AI Mutual Credit Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
 
 **A New Economic Railroad**
 *Duration: ~8 minutes*
 Understanding the railroad metaphor and community connections
 
-<div style="position: relative; padding-top: 56.25%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F091ce268f5fbf9c0bd504ca9088bca5e%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin Economic Railroad Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
 
 ---
 

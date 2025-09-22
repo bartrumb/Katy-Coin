@@ -152,20 +152,33 @@ Perfect - here's how to wrap all these concepts into one unified platform that f
 
 ### Core Architecture
 
-```
-Edge Network (Cloudflare Workers)
-├── Market Intelligence Layer
-│   ├── Price tracking agents
-│   ├── Seasonal/disaster adjustments
-│   └── Service valuation engine
-├── Transaction Engine
-│   ├── Multi-party trade matching
-│   ├── Time bank integration
-│   └── Future value contracts
-└── Business Integration Layer
-    ├── POS system hooks
-    ├── Inventory sync
-    └── Quick convert pricing
+```mermaid
+graph TD
+    A[☁️ Edge Network<br/>Cloudflare Workers] --> B[🧠 Market Intelligence Layer]
+    A --> C[⚡ Transaction Engine]
+    A --> D[🏢 Business Integration Layer]
+    
+    B --> E[📊 Price tracking agents]
+    B --> F[🌦️ Seasonal/disaster adjustments]
+    B --> G[💰 Service valuation engine]
+    
+    C --> H[🤝 Multi-party trade matching]
+    C --> I[⏰ Time bank integration]
+    C --> J[📋 Future value contracts]
+    
+    D --> K[🛒 POS system hooks]
+    D --> L[📦 Inventory sync]
+    D --> M[💱 Quick convert pricing]
+    
+    classDef network fill:#e3f2fd
+    classDef intelligence fill:#e8f5e8
+    classDef transaction fill:#fff3e0
+    classDef business fill:#f3e5f5
+    
+    class A network
+    class B,E,F,G intelligence
+    class C,H,I,J transaction
+    class D,K,L,M business
 ```
 
 ### Small Business Integration Features

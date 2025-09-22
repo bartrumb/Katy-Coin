@@ -27,15 +27,7 @@
 
 **Start Here: The Economic Railroad Explained (8 minutes)**
 
-<div style="position: relative; padding-top: 56.25%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F091ce268f5fbf9c0bd504ca9088bca5e%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin Economic Railroad Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/091ce268f5fbf9c0bd504ca9088bca5e/iframe)
 
 *Watch this first to understand how Katy Coin connects communities like the historic railroad. For a deeper dive, scroll down to the 35-minute [AI-Powered Mutual Credit Deep Dive](#-learn-more-audio--video).*
 
@@ -45,7 +37,7 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 
 **The Big Idea**: Just like the historic "Katy" Railroad connected isolated communities in America, Katy Coin connects neighbors digitally so anyone can trade anything with anyone, building stronger communities where skills have real value.
 
-<img src="docs/Media/Mind%20Map.png" alt="System Overview" width="600">
+<img src="https://imagedelivery.net/Vs0ixtD25bhQfSlvaM3Yig/6dbc069a-8ddb-4672-4075-dbe9aacadb00/public" alt="Katy Coin Logo" width="300">
 
 ## 🎯 Why This Matters
 
@@ -75,15 +67,7 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 
 **Want to understand the full economic theory?** Watch this comprehensive exploration of how AI-powered mutual credit systems can transform economics:
 
-<div style="position: relative; padding-top: 100%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2Fdf0b84134e23fe82ed198269216ede33%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin AI Mutual Credit Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/df0b84134e23fe82ed198269216ede33/iframe)
 
 ### 🎬 Additional Content
 
@@ -91,15 +75,7 @@ Imagine if you could trade your guitar lessons for fresh vegetables, your coding
 *Duration: ~5 minutes*
 A comprehensive journey through the economics, philosophy, and future of community-driven currency
 
-<div style="position: relative; padding-top: 100%;">
-  <iframe
-    src="https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe?preload=true&poster=https%3A%2F%2Fcustomer-bqks49rkj2gctvbm.cloudflarestream.com%2F76741d776feead7b75d08dc32bccc272%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-    loading="lazy"
-    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-    allowfullscreen="true"
-  ></iframe>
-</div>
+[![Katy Coin Endgame Blueprint Video](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/thumbnails/thumbnail.jpg?time=&height=600)](https://customer-bqks49rkj2gctvbm.cloudflarestream.com/76741d776feead7b75d08dc32bccc272/iframe)
 
 ## 🚀 How We're Building This
 

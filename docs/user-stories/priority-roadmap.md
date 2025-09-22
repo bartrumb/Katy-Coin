@@ -252,27 +252,58 @@ This roadmap organizes all user stories across the four user types by priority, 
 
 ## 🔄 Dependency Map
 
-```
-Foundation Layer
-├── Authentication → All Features
-├── User Profiles → Reputation → Trust Network
-├── Listings → Search → Discovery → Matching
-└── Transactions → History → Analytics → Insights
-
-Business Layer
-├── Business Accounts → Inventory → POS Integration
-├── Payment Processing → Tax Reports → Compliance
-└── Analytics → Predictions → Optimization
-
-Community Layer
-├── Communities → Governance → Voting → Decisions
-├── Mutual Aid → Insurance → Risk Pooling
-└── Education → Skills → Verification → Value
-
-Developer Layer
-├── API → SDK → Plugins → Extensions
-├── Documentation → Integration → Adoption
-└── Security → Privacy → Trust → Growth
+```mermaid
+graph TD
+    %% Foundation Layer
+    A[🔐 Authentication] --> B[👤 User Profiles]
+    A --> C[📋 Listings]
+    A --> D[💳 Transactions]
+    B --> E[⭐ Reputation]
+    E --> F[🤝 Trust Network]
+    C --> G[🔍 Search]
+    G --> H[🎯 Discovery]
+    H --> I[🎲 Matching]
+    D --> J[📊 History]
+    J --> K[📈 Analytics]
+    K --> L[💡 Insights]
+    
+    %% Business Layer
+    M[🏢 Business Accounts] --> N[📦 Inventory]
+    N --> O[🛒 POS Integration]
+    P[💰 Payment Processing] --> Q[📄 Tax Reports]
+    Q --> R[⚖️ Compliance]
+    S[📊 Analytics] --> T[🔮 Predictions]
+    T --> U[⚡ Optimization]
+    
+    %% Community Layer
+    V[🏘️ Communities] --> W[🗳️ Governance]
+    W --> X[📊 Voting]
+    X --> Y[🎯 Decisions]
+    Z[🤲 Mutual Aid] --> AA[🛡️ Insurance]
+    AA --> BB[⚖️ Risk Pooling]
+    CC[📚 Education] --> DD[🎓 Skills]
+    DD --> EE[✅ Verification]
+    EE --> FF[💎 Value]
+    
+    %% Developer Layer
+    GG[🔌 API] --> HH[🛠️ SDK]
+    HH --> II[🔧 Plugins]
+    II --> JJ[📱 Extensions]
+    KK[📖 Documentation] --> LL[🔗 Integration]
+    LL --> MM[📈 Adoption]
+    NN[🔒 Security] --> OO[🔐 Privacy]
+    OO --> PP[🤝 Trust]
+    PP --> QQ[🚀 Growth]
+    
+    classDef foundation fill:#e1f5fe
+    classDef business fill:#f3e5f5
+    classDef community fill:#e8f5e8
+    classDef developer fill:#fff3e0
+    
+    class A,B,C,D,E,F,G,H,I,J,K,L foundation
+    class M,N,O,P,Q,R,S,T,U business
+    class V,W,X,Y,Z,AA,BB,CC,DD,EE,FF community
+    class GG,HH,II,JJ,KK,LL,MM,NN,OO,PP,QQ developer
 ```
 
 ---
