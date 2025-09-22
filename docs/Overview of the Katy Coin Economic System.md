@@ -78,3 +78,25 @@ The three-layer architecture of Katy Coin is not a top-down invention being forc
 - **No External Dependencies** Value is determined by the community's own supply and demand, not by the policies of central banks, the stability of the US dollar, or the whims of international markets. This creates economic sovereignty, allowing communities to build a stable and thriving economy on their own terms.
 
 You cannot stop humans from helping each other. Katy Coin is merely the ledger that remembers the help.
+
+---
+
+## 🔗 Related Documentation
+
+**For Newcomers:**
+- **[What is Katy Coin?](What%20is%20Katy%20Coin?.md)** - Simple guide to understanding the new economy
+- **[Main Project](../README.md)** - Back to the main repository
+
+**For Technical Understanding:**
+- **[System Architecture](ARCHITECTURE.md)** - Complete technical implementation details
+- **[Development Phases](phases/PHASE-1-FOUNDATION.md)** - Implementation roadmap
+- **[User Stories](user-stories/README.md)** - Complete stakeholder requirements
+
+**For Critical Analysis:**
+- **[Formal Risk Analysis](Formal%20Risk%20Analysis%20-%20Katy%20Coin%20System%20Viability.md)** - Objective analysis of risks and mitigation strategies
+- **[Comprehensive Skeptics Q&A](Deep%20Research/Comprehensive%20Skeptics%20Q&A%20-%20Evidence-Based%20Responses.md)** - Evidence-based responses to critical concerns
+- **[Economic Foundations](Deep%20Research/Economic%20Foundations%20of%20Katy%20Coin.md)** - Theoretical economic underpinnings
+
+**For Deep Research:**
+- **[Beyond the Oracle](Deep%20Research/Beyond%20the%20Oracle%20-%20The%20Living%20System%20Response.md)** - Final synthesis revealing organic emergence
+- **[Solutions to Historical Failures](Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures

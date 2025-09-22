@@ -148,14 +148,32 @@ When adding new user stories:
 
 ## 🔗 Related Documentation
 
+**For Project Overview:**
+- **[Main Project Repository](../README.md)** - Complete repository overview and getting started guide
+- **[What is Katy Coin?](../What%20is%20Katy%20Coin?.md)** - Simple introduction for newcomers
+- **[Overview of the Economic System](../Overview%20of%20the%20Katy%20Coin%20Economic%20System.md)** - Technical overview of three-layer architecture
+
+**For Technical Implementation:**
 - **[Technical Architecture](../ARCHITECTURE.md)** - System design and technical implementation
 - **[Phase 1: Foundation](../phases/PHASE-1-FOUNDATION.md)** - Core infrastructure features
 - **[Phase 2: Intelligence](../phases/PHASE-2-INTELLIGENCE.md)** - AI-powered features
 - **[Phase 3: Community](../phases/PHASE-3-COMMUNITY.md)** - Governance and mutual aid systems
-- **[Sprint Planning](sprint-planning.md)** - Detailed sprint breakdown
-- **[Priority Roadmap](priority-roadmap.md)** - Feature prioritization framework
+- **[Phase 4: Scale](../phases/PHASE-4-SCALE.md)** - Network expansion and global integration
+
+**For Product Planning:**
+- **[Sprint Planning](sprint-planning.md)** - Detailed 6-month sprint breakdown
+- **[Priority Roadmap](priority-roadmap.md)** - Feature prioritization framework using MoSCoW method
 - **[Privacy & Security](privacy.md)** - Privacy controls and security features
-- **[Main Documentation](../README.md)** - Back to main docs
+
+**For Research & Analysis:**
+- **[Formal Risk Analysis](../Formal%20Risk%20Analysis%20-%20Katy%20Coin%20System%20Viability.md)** - Objective analysis of critical risks and mitigation strategies
+- **[Comprehensive Skeptics Q&A](../Deep%20Research/Comprehensive%20Skeptics%20Q&A%20-%20Evidence-Based%20Responses.md)** - Evidence-based responses to critical concerns
+- **[Economic Foundations](../Deep%20Research/Economic%20Foundations%20of%20Katy%20Coin.md)** - Theoretical economic underpinnings
+- **[Solutions to Historical Failures](../Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures
+
+**For Audio & Media:**
+- **[Katy Coin's Endgame](../Audio/Katy%20Coin's%20Endgame_%20Deciphering%20the%20Economic%20Blueprint%20for%20Regenerative%20Tokenomics,%20Metcalfe,%20and%20Beyond%20Speculation.mp3)** - Comprehensive audio exploration of regenerative tokenomics
+- **[Can AI-Powered Mutual Credit Replace the Dollar?](../Audio/Katy_Coin__Can_AI-Powered_Mutual_Credit_Replace_the_Dollar_and_.mp4)** - Visual explanation of core concepts
 
 ---
 

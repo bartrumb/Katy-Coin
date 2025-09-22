@@ -86,3 +86,22 @@ This new economy isn't built by programmers or economists alone; it's built by a
 - **Your Things:** Extra produce from your garden, tools you don't use often, a spare room, a parking spot, or handmade crafts.
 
 Our ultimate mission is to break the chains of the wage-slave trap and build a world where every person's contribution is seen, valued, and rewarded. This isn't just an app—it's a parallel economic operating system that makes the old one obsolete. Together, we are building a network of resilient, connected, and truly prosperous communities where we can all be free.
+
+---
+
+## 🔗 Continue Your Journey
+
+**For Deeper Understanding:**
+- **[Overview of the Economic System](Overview%20of%20the%20Katy%20Coin%20Economic%20System.md)** - Technical deep-dive into the three-layer architecture
+- **[System Architecture](ARCHITECTURE.md)** - Complete technical implementation details
+- **[Why It Works](WHY-IT-WORKS.md)** - Evidence-based case for viability
+
+**For Skeptics & Researchers:**
+- **[Comprehensive Skeptics Q&A](Deep%20Research/Comprehensive%20Skeptics%20Q&A%20-%20Evidence-Based%20Responses.md)** - Evidence-based responses to critical concerns
+- **[Formal Risk Analysis](Formal%20Risk%20Analysis%20-%20Katy%20Coin%20System%20Viability.md)** - Objective analysis of risks and mitigation strategies
+- **[Solutions to Historical Failures](Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures
+
+**For Contributors:**
+- **[User Stories](user-stories/README.md)** - Complete stakeholder requirements
+- **[Development Phases](phases/PHASE-1-FOUNDATION.md)** - Implementation roadmap
+- **[Main Project](../README.md)** - Back to the main repository

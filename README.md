@@ -225,9 +225,11 @@ We need revolutionaries, not just developers. Whether you code, design, write, t
 ### Getting Started
 
 1. **Join our Discord**: [discord.gg/katycoin](https://discord.gg/katycoin)
-2. **Read the docs**: Start with [ARCHITECTURE.md](docs/ARCHITECTURE.md)
-3. **Pick an issue**: Browse [good first issues](https://github.com/katycoin/core/labels/good%20first%20issue)
-4. **Submit a PR**: We review within 48 hours
+2. **Understand the Vision**: Start with [What is Katy Coin?](docs/What%20is%20Katy%20Coin?.md)
+3. **Read the Architecture**: Continue with [ARCHITECTURE.md](docs/ARCHITECTURE.md)
+4. **Review User Stories**: Check [User Stories Overview](docs/user-stories/README.md)
+5. **Pick an issue**: Browse [good first issues](https://github.com/katycoin/core/labels/good%20first%20issue)
+6. **Submit a PR**: We review within 48 hours
 
 ```bash
 # Clone the repo
@@ -288,12 +290,49 @@ npm test
 5. **Environmental Harmony**: Repair over replace
 6. **Democratic Governance**: One person, one vote
 
+## 🎧 Audio & Media
+
+### Deep Dive Podcast
+- **[Katy Coin's Endgame: Deciphering the Economic Blueprint](docs/Audio/Katy%20Coin's%20Endgame_%20Deciphering%20the%20Economic%20Blueprint%20for%20Regenerative%20Tokenomics,%20Metcalfe,%20and%20Beyond%20Speculation.mp3)** - A comprehensive audio exploration of regenerative tokenomics, network effects, and the philosophical foundations of Katy Coin
+
+### Video Content
+- **[Can AI-Powered Mutual Credit Replace the Dollar?](docs/Audio/Katy_Coin__Can_AI-Powered_Mutual_Credit_Replace_the_Dollar_and_.mp4)** - Visual explanation of the system's core concepts
+
+## 📚 Research Documentation
+
+### Core Understanding
+- **[What is Katy Coin?](docs/What%20is%20Katy%20Coin?.md)** - Simple guide to the new economy for newcomers
+- **[Overview of the Economic System](docs/Overview%20of%20the%20Katy%20Coin%20Economic%20System.md)** - Foundational overview of the three-layer architecture
+- **[Formal Risk Analysis](docs/Formal%20Risk%20Analysis%20-%20Katy%20Coin%20System%20Viability.md)** - Objective analysis of critical risks and mitigation strategies
+
+### Deep Research
+- **[Comprehensive Skeptics Q&A](docs/Deep%20Research/Comprehensive%20Skeptics%20Q&A%20-%20Evidence-Based%20Responses.md)** - Evidence-based responses to critical concerns
+- **[Beyond the Oracle: The Living System Response](docs/Deep%20Research/Beyond%20the%20Oracle%20-%20The%20Living%20System%20Response.md)** - Final synthesis revealing organic emergence
+- **[Economic Foundations](docs/Deep%20Research/Economic%20Foundations%20of%20Katy%20Coin.md)** - Theoretical economic underpinnings
+- **[Solutions to Historical Failures](docs/Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures
+- **[Counter-Rebuttal to Devil's Advocate Critique](docs/Deep%20Research/Counter-Rebuttal%20to%20Devil's%20Advocate%20Critique.md)** - Addressing fundamental criticisms
+- **[The Oracle's Challenge](docs/Deep%20Research/The%20Oracle's%20Challenge%20-%20Existential%20Threats%20and%20Final%20Responses.md)** - Confronting existential threats
+
+## 👥 User Stories & Development Planning
+
+### Complete User Research
+- **[User Stories Overview](docs/user-stories/README.md)** - Comprehensive user stories for all stakeholder types
+- **[Priority Roadmap](docs/user-stories/priority-roadmap.md)** - Feature prioritization framework using MoSCoW method
+- **[Sprint Planning](docs/user-stories/sprint-planning.md)** - Detailed 6-month sprint breakdown
+- **[Privacy & Security](docs/user-stories/privacy.md)** - Privacy controls and security features
+
+### User Types
+- **[End Users](docs/user-stories/end-users.md)** 📱 - Individual community members
+- **[Business Users](docs/user-stories/businesses.md)** 💼 - Small businesses integration
+- **[Community Managers](docs/user-stories/community-managers.md)** 🏘️ - Local community leaders
+- **[Developers](docs/user-stories/developers.md)** 👨‍💻 - Technical platform builders
+
 ## 📊 Success Metrics
 
 We measure success differently:
 
 - **Trades Completed** (not revenue)
-- **Skills Shared** (not profits)  
+- **Skills Shared** (not profits)
 - **Communities Strengthened** (not market cap)
 - **People Helped** (not shareholders enriched)
 
