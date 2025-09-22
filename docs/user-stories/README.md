@@ -172,8 +172,9 @@ When adding new user stories:
 - **[Solutions to Historical Failures](../Deep%20Research/Solutions%20to%20Historical%20Failures.md)** - Learning from past alternative currency failures
 
 **For Audio & Media:**
-- **[Katy Coin's Endgame](../Audio/Katy%20Coin's%20Endgame_%20Deciphering%20the%20Economic%20Blueprint%20for%20Regenerative%20Tokenomics,%20Metcalfe,%20and%20Beyond%20Speculation.mp3)** - Comprehensive audio exploration of regenerative tokenomics
-- **[Can AI-Powered Mutual Credit Replace the Dollar?](../Audio/Katy_Coin__Can_AI-Powered_Mutual_Credit_Replace_the_Dollar_and_.mp4)** - Visual explanation of core concepts
+- **[Katy Coin's Endgame](../Media/endgame-blueprint.mp3)** - Comprehensive audio exploration of regenerative tokenomics
+- **[Can AI-Powered Mutual Credit Replace the Dollar?](../Media/ai-mutual-credit.mp4)** - Visual explanation of core concepts
+- **[A New Economic Railroad](../Media/economic-railroad.mp4)** - Understanding the railroad metaphor and community connections
 
 ---
 

@@ -1,5 +1,5 @@
 # The Economic Foundations of Katy Coin: A Comprehensive Theoretical Framework
-![[Katy Coin's Endgame_ Deciphering the Economic Blueprint for Regenerative Tokenomics, Metcalfe, and Beyond Speculation.mp3]]
+![[endgame-blueprint.mp3]]
 ## I. Introduction: Beyond Speculation - Grounding Digital Currency in Economic Theory
 
 ### Purpose and Scope
